@@ -7,10 +7,10 @@ import AllBooks from './user/pages/AllBooks';
 import Careers from './user/pages/Careers';
 import Profile from './user/pages/Profile';
 import ViewBook from './user/pages/ViewBook';
-import AdminCareers from './admin/pages/AdminCareers';
 import { useContext, useEffect, useState } from 'react';
 import Loader from './common/pages/Loader';
 import AdminHome from './admin/Pages/AdminHome';
+import AdminCareers from './admin/Pages/AdminCareers'
 import AdminSettings from './admin/Pages/AdminSettings';
 import AdminBooks from './admin/Pages/AdminBooks';
 import { ToastContainer, toast } from 'react-toastify';
